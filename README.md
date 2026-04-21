@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey there!
+## I'm a new student developer trying out GitHub for the first time
+## I'm interested in learning how to code to express my ideas!
 
 <!--
 **yile-l-09/yile-l-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
