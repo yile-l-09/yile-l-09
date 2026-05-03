@@ -1,5 +1,5 @@
 ## Hey there!
-## I'm a new student developer trying out GitHub for the first time
+## I'm a new student developer
 ## I'm interested in learning how to code to express my ideas!
 
 <!--
